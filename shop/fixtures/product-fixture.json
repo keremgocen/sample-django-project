@@ -1,0 +1,20 @@
+[
+    {
+        "model": "shop.product",
+        "pk": 1,
+        "fields": {
+        "name": "p1",
+        "description": "this is a product",
+        "price": 1
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 2,
+        "fields": {
+            "name": "product2",
+            "description": "this is another product",
+            "price": 2
+        }
+    }
+]
