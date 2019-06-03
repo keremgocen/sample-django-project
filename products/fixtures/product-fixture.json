@@ -1,6 +1,6 @@
 [
     {
-        "model": "shop.product",
+        "model": "products.product",
         "pk": 1,
         "fields": {
         "name": "p1",
@@ -9,7 +9,7 @@
         }
     },
     {
-        "model": "shop.product",
+        "model": "products.product",
         "pk": 2,
         "fields": {
             "name": "product2",
